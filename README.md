@@ -67,3 +67,18 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![wakatime](https://
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustavxg&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+------------
+
+<!--START_SECTION:workflows-update-->
+
+<p align="center">
+      This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
+      Last refresh: <b>Jun 12, 2025, 7:53 AM IST</b><br/>
+      Number of workflows: <b>654</b><br/><br/>
+      Made with ❤️ by Kaustav Gupta
+    </p>
+
+<!--END_SECTION:workflows-update-->

@@ -1,0 +1,86 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs daily at 2:00 AM UTC (7:30 AM IST)
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Count workflows and get time
+        run: |
+          # Count workflow files
+          WORKFLOWS=$(find .github/workflows -name "*.yml" -o -name "*.yaml" | wc -l)
+          # Get current date in IST
+          DATE=$(TZ="Asia/Kolkata" date +"%b %d, %Y, %-I:%M %p %Z")
+          
+          echo "WORKFLOWS=$WORKFLOWS" >> $GITHUB_ENV
+          echo "DATE=$DATE" >> $GITHUB_ENV
+          
+          echo "Found $WORKFLOWS workflow files"
+          echo "Current date: $DATE"
+
+      - name: Update README.md content
+        run: |
+          START="<!--START_SECTION:workflows-update-->"
+          END="<!--END_SECTION:workflows-update-->"
+          
+          # Create the new content
+          NEW_CONTENT="$START
+
+<p align=\"center\">
+  This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
+  Last refresh: <b>$DATE</b><br/>
+  Number of workflows: <b>$WORKFLOWS</b><br/><br/>
+  Made with ❤️ by Kaustav Gupta
+</p>
+
+$END"
+          
+          # Use awk to replace content between markers
+          awk -v start="$START" -v end="$END" -v content="$NEW_CONTENT" '
+          BEGIN { in_section = 0; found_start = 0 }
+          $0 ~ start { 
+            print content
+            in_section = 1
+            found_start = 1
+            next 
+          }
+          $0 ~ end && in_section { 
+            in_section = 0
+            next 
+          }
+          !in_section { print }
+          END { 
+            if (!found_start) {
+              print ""
+              print content
+            }
+          }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "🔄 Updated README with latest workflow info"
+          git push
