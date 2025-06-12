@@ -76,8 +76,8 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![wakatime](https://
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Jun 12, 2025, 7:53 AM IST</b><br/>
-      Number of workflows: <b>654</b><br/><br/>
+      <!-- Last refresh: <b>Jun 12, 2025, 7:53 AM IST</b><br/> -->
+      </b>
       Made with ❤️ by Kaustav Gupta
     </p>
 
