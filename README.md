@@ -4,7 +4,10 @@
 
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=KaustavGupta%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners) -->
 
-My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor-badge.laobi.icu/badge?page_id=kaustavxg.kaustavxg&)
+<!-- My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor-badge.laobi.icu/badge?page_id=kaustavxg.kaustavxg&) -->
+
+My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaustavxg.kaustavxg)
+
 
 <img align="right" width="50%" src="https://streak-stats.demolab.com/?user=kaustavxg&theme=merko&hide_border=true">
 
@@ -71,6 +74,11 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![wakatime](https://
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustavxg&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ------------
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:workflows-update-->
 
