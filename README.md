@@ -21,7 +21,7 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 
 ---
 
-## 🌐 Connect with me
+<h2 align="left">🌐 Connect with me</h2>
 
 <p align="left">
   <a href="https://discord.gg/MWRNwrkS8x" target="_blank">
@@ -45,7 +45,9 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 </p>
 
 
-# 💻 Tech Stack:
+
+<h2 align="left">💻 Tech Stack</h2>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -74,7 +76,7 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustavxg&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ------------
-
+<h2 align="left">🔥 My Stats</h2>
 <!--START_SECTION:waka-->
 
 ```txt
