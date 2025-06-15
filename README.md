@@ -77,6 +77,7 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 
 ------------
 <h2 align="left">🔥 My Stats</h2>
+<span>Tracking started on <b>12th June 2025</b> — stats below are from that date to today.</span>
 <!--START_SECTION:waka-->
 
 ```txt
