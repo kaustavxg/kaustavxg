@@ -17,7 +17,6 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 - 🌱 Exploring new opportunities in tech!
 - 💭 Ask me anything at [Twitter](https://x.com/kaustav_gupta23)!
 - 📌 Most active on [kaustavxg](https://github.com/kaustavxg)
-- 📓 My [Web Dev](https://codebykaustav.notion.site/webdevjourney?v=1dcca8089cf5807a9915000c23e0d280&source=copy_link) Journey
 
 ---
 
