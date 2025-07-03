@@ -12,7 +12,7 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 <img align="right" width="50%" src="https://streak-stats.demolab.com/?user=kaustavxg&theme=merko&hide_border=true">
 
 - 💻 Full Stack Dev in progress
-- ✏️ JavaScript / TypeScript
+- ✏️ JavaScript
 - 📦 [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [chrome](https://www.google.com/chrome)
 - 🌱 Exploring new opportunities in tech!
 - 💭 Ask me anything at [Twitter](https://x.com/kaustav_gupta23)!
