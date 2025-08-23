@@ -23,9 +23,6 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 <h2 align="left">🌐 Connect with me</h2>
 
 <p align="left">
-  <a href="https://discord.gg/MWRNwrkS8x" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/kaustav-gupta23/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
