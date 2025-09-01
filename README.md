@@ -20,25 +20,8 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 
 ---
 
-<h2 align="left">🌐 Connect with me</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaustav-gupta23/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/kaustav_gupta23" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://dev.to/kaustavxg" target="_blank">
-    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://codebykaustav.notion.site/webdevjourney?v=1dcca8089cf5807a9915000c23e0d280&source=copy_link" target="_blank">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@kaustavxg" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+
 
 
 
@@ -91,7 +74,19 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 ![Excalidraw](https://img.shields.io/badge/excalidraw-0A0A0A?style=for-the-badge&logo=excalidraw&logoColor=white)  
 
 
+<h2 align="left">🌐 Connect with me</h2>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaustav-gupta23/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/kaustav_gupta23" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:kaustavgupta2311@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
