@@ -21,6 +21,13 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 ---
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
+</picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustavxg&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -89,13 +96,6 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kaustavxg/kaustavxg/output/github-snake.svg" />
-</picture>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustavxg&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ------------
 <h2 align="left">🔥 My Stats</h2>
