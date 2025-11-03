@@ -9,7 +9,7 @@
 My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaustavxg.kaustavxg)
 
 
-<img align="right" width="47%" src="https://streak-stats.demolab.com/?user=kaustavxg&theme=merko&hide_border=true&hide_current_streak=true">
+<img align="right" width="47%" src="https://streak-stats.demolab.com/?user=kaustavxg&theme=merko&hide_border=true">
 <!-- <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustavxg&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="kaustavxg"> -->
 
 
