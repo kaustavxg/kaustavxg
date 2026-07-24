@@ -107,7 +107,7 @@ My name is Kaustav Gupta. I'm a undergraduate from 🇮🇳 ![Visitor Badge](htt
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 394 hrs 55 mins
+Total Time: 394 hrs 56 mins
 
 JavaScript    265 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.30 %
 HTML          41 hrs 35 mins        ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.53 %
